@@ -1,3 +1,10 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="desp_margin">5dp</dimen>
+    <dimen name="list_item_space">2dp</dimen>
+
+    <!-- TextViews dimensions-->
+    <dimen name="title">18sp</dimen>
+    <dimen name="description">14sp</dimen>
 </resources>

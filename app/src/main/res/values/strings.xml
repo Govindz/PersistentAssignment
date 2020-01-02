@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">PersistentAssignment</string>
     <string name="action_settings">Settings</string>
+    <string name="click_twice_to_exit">Click back button again to exit..!!</string>
+    <string name="no_internet">No internet available..!!</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
 </resources>
